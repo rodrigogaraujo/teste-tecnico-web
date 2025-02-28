@@ -21,7 +21,7 @@ nvm use
 Utilizando a versão do Node **18.18.0** (recomendada):
 
 ```
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/rodrigogaraujo/teste-tecnico-web
 cd teste-tecnico-web
 ```
 
